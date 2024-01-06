@@ -1,5 +1,33 @@
-<h1 align="center" style="color:black">Hi 👋, I'm Juan Felipe Jimenez Pacheco</h1>
-<h4 align="justify" style="color:black">My name is Juan Felipe Jiménez, I am a final year student of Systems Engineering with a focus on Fullstack Web Development. I am passionate about technology and the future, I am a lover of music and sports and I enjoy learning continuously. <br> Currently, I have a solid B1 level of English, and I am also learning French in a self-taught way. <br><br> My professional vision is focused on leading Software Development teams and specializing in Software Architecture at the Pontificia Universidad Javeriana. <br><br> Work experience: I started as a Fullstack Developer. In the Backend part, I was in charge of implementing use cases using PHP and Laravel. Regarding the Frontend, I led the integration of REST APIs in Angular, HTML, Tailwind and Alpine.js. I also managed migrations and connections to MySQL databases. <br><br> Later, I had the honor of working with the National University of Colombia. My responsibilities included the recovery of fallen sites through Backups and in web development, I managed technologies such as Linux, PHP, MariaDB and the CMS Typo3. <br><br> Academic experience: My academic training takes place at the Konrad Lorenz University Foundation, where I am currently in the ninth semester of Systems Engineering. There I participated in Java programming competitions and contributed to research groups on data analysis using Python. <br><br> I have complemented my learning with virtual course certifications on platforms such as Platzi, Udemy and IBM. <br><br> I am excited to continue my journey in the world of software development and technology. Hit me up if you share my passion for technology and are interested in collaborating or brainstorming!</h4>
+<h1 align="center" style="color:black">👋 I am Juan Felipe Jiménez, passionate about technology, music and sports. 👋</h1>
+
+<h4 align="center" style="color:black">💥 I am a Systems Engineer specialized in FullStack and DataScience development, with more than 2 years of work experience and an innovative and technological approach. 💻</h4>
+
+<h4 align="center" style="color:black">My professional vision focuses on leading Software Development teams worldwide and specializing in Software Architecture</h4>
+
+<h4 align="center" style="color:black">💡 "If you can imagine it, you can program it" 💡</h4>
+
+<h4 align="justify" style="color:black">My journey began when I was 14 years old and in classes they taught us how to program static websites, from then on I became fascinated, he developed websites and I started my adventure, since I was little I knew that I wanted to study Systems Engineering, since I had always liked computers and all the technological stuff.</h4>
+
+<h4 align="left" style="color:black">🎓 Education:</h4>
+
+<h4 align="justify" style="color:black">I entered the University to study Systems Engineering at the age of 16 and finished my studies at the age of 20 at the Konrad Lorenz University Foundation in Bogotá D.C., I made good friends that accompanied me along the way, I contributed to research groups and participated in competitions. programming.
+Finishing my undergraduate studies, I am excited to start my new adventure by completing my master's degree in Software Engineering that I hope to complete.</h4>
+
+<h4 align="left" style="color:black">🏢 Professional Experience:</h4>
+
+<h4 align="justify" style="color:black">In my first job I started as a Fullstack Developer in a consultancy, I led my first project, I learned to use Laravel and PHP to create REST APIs and in Fronted I used Angular and Tailwind for styles, I also managed migrations and connections to databases MySQL.
+Later, I had the honor of working with the National University of Colombia. My responsibilities included the recovery of downed sites through Backups and the development of websites, I managed technologies such as Linux, PHP, MariaDB and the CMS Typo3.
+After that</h4>
+
+<h4 align="left" style="color:black">🚀 Enthusiastic in Continuous Learning:</h4>
+
+<h4 align="justify" style="color:black">In my constant search for knowledge, I complement my training with certifications from platforms such as Platzi, Udemy, IBM, etc. Currently, I am improving my level of English (B1) and I have Basic knowledge of French. Just like leveling up in a game, I aspire to take my career to new heights.</h4>
+
+<h4 align="left" style="color:black">🌐 Let's connect!:</h4>
+
+<h4 align="justify" style="color:black">I am excited to continue my journey in the world of software development and technology. Connect me if you share my passion for technology and are interested in collaborating or exchanging ideas, let's transform technology into a work of art! 🎉🚀🎮 </h4>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanfelipex&label=Profile%20views&color=0e75b6&style=flat" alt="juanfelipex" /> </p>
 
