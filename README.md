@@ -1,124 +1,158 @@
-<h1 align="center" style="color:black">👋 I am Juan Felipe Jiménez, passionate about technology, music and sports. 👋</h1>
 
-<h4 align="center" style="color:black">💥 I am a Systems Engineer specialized in FullStack and DataScience development, with more than 2 years of work experience and an innovative and technological approach. 💻</h4>
+<h1 align="center">🌎 Greetings, Earthlings! I'm Juan Felipe Jiménez</h1>
 
-<h4 align="center" style="color:black">My professional vision focuses on leading Software Development teams worldwide and specializing in Software Architecture</h4>
-
-<h4 align="center" style="color:black">💡 "If you can imagine it, you can program it" 💡</h4>
-
-<h4 align="justify" style="color:black">My journey began when I was 14 years old and in classes they taught us how to program static websites, from then on I became fascinated, he developed websites and I started my adventure, since I was little I knew that I wanted to study Systems Engineering, since I had always liked computers and all the technological stuff.</h4>
-
-<h4 align="left" style="color:black">🎓 Education:</h4>
-
-<h4 align="justify" style="color:black">I entered the University to study Systems Engineering at the age of 16 and finished my studies at the age of 20 at the Konrad Lorenz University Foundation in Bogotá D.C., I made good friends that accompanied me along the way, I contributed to research groups and participated in competitions. programming.
-Finishing my undergraduate studies, I am excited to start my new adventure by completing my master's degree in Software Engineering that I hope to complete.</h4>
-
-<h4 align="left" style="color:black">🏢 Professional Experience:</h4>
-
-<h4 align="justify" style="color:black">In my first job I started as a Fullstack Developer in a consultancy, I led my first project, I learned to use Laravel and PHP to create REST APIs and in Fronted I used Angular and Tailwind for styles, I also managed migrations and connections to databases MySQL.
-Later, I had the honor of working with the National University of Colombia. My responsibilities included the recovery of downed sites through Backups and the development of websites, I managed technologies such as Linux, PHP, MariaDB and the CMS Typo3.
-After that</h4>
-
-<h4 align="left" style="color:black">🚀 Enthusiastic in Continuous Learning:</h4>
-
-<h4 align="justify" style="color:black">In my constant search for knowledge, I complement my training with certifications from platforms such as Platzi, Udemy, IBM, etc. Currently, I am improving my level of English (B1) and I have Basic knowledge of French. Just like leveling up in a game, I aspire to take my career to new heights.</h4>
-
-<h4 align="left" style="color:black">🌐 Let's connect!:</h4>
-
-<h4 align="justify" style="color:black">I am excited to continue my journey in the world of software development and technology. Connect me if you share my passion for technology and are interested in collaborating or exchanging ideas, let's transform technology into a work of art! 🎉🚀🎮 </h4>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanfelipex&label=Profile%20views&color=0e75b6&style=flat" alt="juanfelipex" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanfelipex" alt="juanfelipex" /></a> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://juanfelipex.github.io/Curriculum-Vitae/](https://juanfelipex.github.io/Curriculum-Vitae/)
-
-- 💬 Ask me about **Angular, NodeJS, JavaScript, PHP, Laravel, SQL, Java,**
-
-- 📫 How to reach me **pipesjimenez6@gmail.com**
-
-- ⚡ Fun fact **Passionate about sports and music**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/juanfelipex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/juanfelipex" height="30" width="40" /></a>
-<a href="https://dev.to/juanfelipex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/juanfelipex" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/juan-felipe-jimenez-pacheco-92293a1a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-felipe-jimenez-pacheco-92293a1a6/" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/juanfelipex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/juanfelipex" height="30" width="40" /></a>
-<a href="www.kaggle.com/juanfelipejimenez/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/juanfelipejimenez/home" height="30" width="40" /></a>
-<a href="https://www.behance.net/juanfejimenez2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/juanfejimenez2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uchvzwgranjz6mzdgputtwsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchvzwgranjz6mzdgputtwsg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pipesjimenez6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pipesjimenez6" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pipesjimenez6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/pipesjimenez6" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pipesjimenez6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pipesjimenez6" height="30" width="40" /></a>
-<a href="https://leetcode.com/juanfelipex/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juanfelipex/" height="30" width="40" /></a>
-<a href="https://profiles.topcoder.com/juanfelipex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/juanfelipex" height="30" width="40" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<h4> ⚙️ Backend: </h4>
-<p> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<p align="center">
+  Naturally curious, passionate about technology, and always eager to learn, explore, and build something new.
 </p>
 
-<h4> 💻 Fronted:</h4>
-<p>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juanfelipex&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 🎓 About Me
+
+I hold an **M.Sc. in Data Engineering and Artificial Intelligence**, with **5+ years of experience** in the technology industry. Throughout my career, I've worked on projects involving **Data Engineering, AI, Business Intelligence, Web Development**, and custom technology solutions across different industries.
+
+## 🚀 Where I'm Heading
+
+I'm always exploring new technologies, aiming to grow into **technology leadership roles** and eventually pursue a Ph.D. I'm passionate about building innovative solutions that create meaningful impact for both organizations and people.
+
+## 🌱 Beyond Technology
+
+I'm passionate about **music and sports**, especially running, working out at the gym, and cycling. I love dogs 🐶, traveling, discovering new cultures, and exploring different perspectives of the world.
+
+I also have a geeky side: **anime, video games, technology**, and curiosity about the unknown. And yes, I'm a bit of an introvert!
+
+## ✨ My Philosophy
+
+I don't just want to build a career; I want to build a life full of experiences, learning, and challenges. To understand myself, act with awareness, nurture my spirituality, and continuously evolve, leaving a positive mark on the people I meet and the world we share. 🌎
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://codepen.io/juanfelipex">
+    <img src="https://api.iconify.design/simple-icons/codepen.svg?color=%23FFFFFF" width="36" height="36" alt="CodePen" />
+  </a>&nbsp;
+  <a href="https://dev.to/juanfelipex">
+    <img src="https://api.iconify.design/simple-icons/devdotto.svg?color=%23FFFFFF" width="36" height="36" alt="DEV" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/juan-felipe-jimenez-pacheco-92293a1a6/">
+    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" width="36" height="36" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://codesandbox.io/u/juanfelipex">
+    <img src="https://api.iconify.design/radix-icons/codesandbox-logo.svg?color=%23FFFFFF" width="36" height="36" alt="CodeSandbox" />
+  </a>&nbsp;
+  <a href="https://www.kaggle.com/juanfelipejimenez">
+    <img src="https://api.iconify.design/simple-icons/kaggle.svg?color=%2320BEFF" width="36" height="36" alt="Kaggle" />
+  </a>&nbsp;
+  <a href="https://www.behance.net/juanfejimenez2">
+    <img src="https://api.iconify.design/simple-icons/behance.svg?color=%231769FF" width="36" height="36" alt="Behance" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/channel/uchvzwgranjz6mzdgputtwsg">
+    <img src="https://api.iconify.design/simple-icons/youtube.svg?color=%23FF0000" width="36" height="36" alt="YouTube" />
+  </a>&nbsp;
+  <a href="https://www.codechef.com/users/pipesjimenez6">
+    <img src="https://api.iconify.design/simple-icons/codechef.svg?color=%23FFFFFF" width="36" height="36" alt="CodeChef" />
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/pipesjimenez6">
+    <img src="https://api.iconify.design/simple-icons/hackerrank.svg?color=%232EC866" width="36" height="36" alt="HackerRank" />
+  </a>&nbsp;
+  <a href="https://codeforces.com/profile/pipesjimenez6">
+    <img src="https://api.iconify.design/simple-icons/codeforces.svg?color=%23FFFFFF" width="36" height="36" alt="Codeforces" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/juanfelipex/">
+    <img src="https://api.iconify.design/simple-icons/leetcode.svg?color=%23FFA116" width="36" height="36" alt="LeetCode" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
-<h4> 🗃️ Databases:</h4>
-<ul>
-  <li>
-    <h5> 🛢 SQL:</h5>
-  </li>
-  <p>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+<p align="center">
+  <a href="mailto:pipesjimenez6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-pipesjimenez6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Juan Felipe" />
+  </a>
 </p>
 
- <li>
-    <h5> 🛢️ NoSQL:</h5>
-  </li>
-  <p>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  </p>
-</ul>
+---
 
-<h4> 🛠️ Other Technologies:</h4>
-<p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+## 💻 Languages and Tools
+
+### 🤖 Artificial Intelligence & Generative AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
+  <img src="https://api.iconify.design/simple-icons/openai.svg?color=%23FFFFFF" width="45" height="45" alt="OpenAI" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="TensorFlow" />
 </p>
 
-<h4> 🎨 Design: </h4>
-<p>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+### ☁️ Data Engineering & Cloud Computing
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp" height="45" alt="AWS and Google Cloud" />
+  <img src="https://api.iconify.design/simple-icons/apachespark.svg?color=%23E25A1C" height="45" width="45" alt="Apache Spark" />
+  <img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811" height="45" width="45" alt="Power BI" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanfelipex&" alt="juanfelipex" /></p>
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring" height="45" alt="PHP Laravel Java Spring" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,nestjs,bootstrap,tailwind" height="45" alt="Frontend Technologies" />
+</p>
+
+### 🗄️ Database Management
+
+**SQL & Relational Databases**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="45" alt="MySQL and PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="45" width="45" alt="MariaDB" />
+  <img src="https://api.iconify.design/simple-icons/microsoftsqlserver.svg?color=%23CC2927" height="45" width="45" alt="Microsoft SQL Server" />
+</p>
+
+**NoSQL & Distributed Databases**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,cassandra" height="45" alt="MongoDB Firebase Cassandra" />
+</p>
+
+### 🛠️ Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,postman" height="45" alt="Git Linux Postman" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juanfelipex&theme=tokyonight" width="100%" height="180" alt="GitHub Statistics" />
+    </td>
+    <td width="33.33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juanfelipex&theme=tokyonight" width="100%" height="180" alt="Top Languages" />
+    </td>
+    <td width="33.33%" align="center">
+      <img src="https://streak-stats.demolab.com?user=juanfelipex&theme=tokyonight&hide_border=true" width="100%" height="180" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  💡 <i>"If you can imagine it, you can build it."</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! Let's build something meaningful together. 🚀</b>
+</p>
